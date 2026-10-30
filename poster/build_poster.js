@@ -62,7 +62,7 @@ slide.addShape(pres.ShapeType.roundRect, {
 const gap = 0.4, pad = 0.4;
 const colW = (W - 2 * M - 2 * pad - gap) / 2;
 const columns = [
-  { x: M + pad, color: COLOR.research, area: "연구영역", title: "접수 담당자", detail: "이중영, 이어진" },
+  { x: M + pad, color: COLOR.research, area: "연구영역", title: "산학협력단", detail: "본부동 916호" },
   { x: M + pad + colW + gap, color: COLOR.service, area: "봉사영역", title: "기획처", detail: "본부동 911호" },
 ];
 
